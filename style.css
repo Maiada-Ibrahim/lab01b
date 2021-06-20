@@ -1,9 +1,35 @@
-section
-{
-    display: inline-block;
+section  img {
+   width: 300px;
+   height: 300px;
+
+  }
+  section{
+      width: 300px;
+      display: inline-block;
+      margin: 50px;
+  }
+  .onee h3 {
+    color: green;
+  }
+  .two h3
+  {
+    color:blueviolet;
+
+  }
+  .onee p {
+    color:brown;
+  }
+  .two p {
+    color:rgb(255, 145, 0);
+  }
+  li {
     
-}
-section image
-{
-    width: 300px;
-}
+    display: inline-block;
+    width: 100px;
+  }
+  h2{
+      color:red;
+  }
+  # lokk{
+      display: block;
+  }
